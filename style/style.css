@@ -77,6 +77,9 @@
   font-weight: 700;
   flex-direction: row;
 }
+.images-container p{
+  padding: 10px;
+}
 img{
   max-width: 100%;
   height: auto;
