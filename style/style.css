@@ -75,10 +75,11 @@
   display: flex;
   font-size: 1em;
   font-weight: 700;
-  flex-direction: row;
+  flex-direction: column;
+  padding: 20px;
 }
 .images-container p{
-  padding: 10px;
+  padding-top: 50px;
 }
 img{
   max-width: 100%;
